@@ -1,0 +1,6 @@
+{
+	"appId": "app.vercel.ibz",
+	"appName": "ibz",
+	"webDir": "out",
+	"bundledWebRuntime": false
+}
